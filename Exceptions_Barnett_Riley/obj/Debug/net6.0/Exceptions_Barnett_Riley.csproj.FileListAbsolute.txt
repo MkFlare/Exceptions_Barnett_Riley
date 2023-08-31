@@ -1,0 +1,14 @@
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\bin\Debug\net6.0\Exceptions_Barnett_Riley.exe
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\bin\Debug\net6.0\Exceptions_Barnett_Riley.deps.json
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\bin\Debug\net6.0\Exceptions_Barnett_Riley.runtimeconfig.json
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\bin\Debug\net6.0\Exceptions_Barnett_Riley.dll
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\bin\Debug\net6.0\Exceptions_Barnett_Riley.pdb
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\Exceptions_Barnett_Riley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\Exceptions_Barnett_Riley.AssemblyInfoInputs.cache
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\Exceptions_Barnett_Riley.AssemblyInfo.cs
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\Exceptions_Barnett_Riley.csproj.CoreCompileInputs.cache
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\Exceptions_Barnett_Riley.dll
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\refint\Exceptions_Barnett_Riley.dll
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\Exceptions_Barnett_Riley.pdb
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\Exceptions_Barnett_Riley.genruntimeconfig.cache
+C:\Users\RileyBarnett\source\repos\Exceptions_Barnett_Riley\Exceptions_Barnett_Riley\obj\Debug\net6.0\ref\Exceptions_Barnett_Riley.dll
